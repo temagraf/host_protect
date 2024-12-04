@@ -1,4 +1,4 @@
-# Домашнее задание к занятию 13.2 «`Защита хоста`» - `Яковлев Артем`
+# Домашнее задание к занятию «`Защита хоста`» - `Яковлев Артем`
 
 ### Инструкция по выполнению домашнего задания
 
@@ -48,9 +48,9 @@ sudo ls -al /home/cryptouser
 ecryptfs-unwrap-passphrase #Информация для восстановления
 ```
 **Скриншот выполнения ls -al /home/cryptouser до шифрования**
-![Скриншот выполнения ls -al /home/cryptouser до шифрования](https://github.com/StanislavBaranovskii/13-2-hw/blob/main/img/13-2-1-1.png "ССкриншот выполнения ls -al /home/cryptouser до шифрования")
+![Скриншот выполнения ls -al /home/cryptouser до шифрования](https://github.com/temagraf/host_protect/blob/main/img/13-2-1-1.png "ССкриншот выполнения ls -al /home/cryptouser до шифрования")
 **Скриншот выполнения ls -al /home/cryptouser после шифрования**
-![Скриншот выполнения ls -al /home/cryptouser после шифрования](https://github.com/StanislavBaranovskii/13-2-hw/blob/main/img/13-2-1-2.png "Скриншот выполнения ls -al /home/cryptouser после шифрования")
+![Скриншот выполнения ls -al /home/cryptouser после шифрования](https://github.com/temagraf/host_protect/blob/main/img/13-2-1-2.png "Скриншот выполнения ls -al /home/cryptouser после шифрования")
 
 ---
 
@@ -85,9 +85,9 @@ sudo cryptsetup luksClose disk #Закрываем раздел
 ```
 
 **Скриншот поэтапного выполнения**
-![Скриншот поэтапного выполнения](https://github.com/StanislavBaranovskii/13-2-hw/blob/main/img/13-2-2-1.png "Скриншот поэтапного выполнения")
+![Скриншот поэтапного выполнения](https://github.com/temagraf/host_protect/blob/main/img/13-2-2-1.png "Скриншот поэтапного выполнения")
 **Скриншот поэтапного выполнения (продолжение)**
-![Скриншот поэтапного выполнения](https://github.com/StanislavBaranovskii/13-2-hw/blob/main/img/13-2-2-2.png "Скриншот поэтапного выполнения")
+![Скриншот поэтапного выполнения](https://github.com/temagraf/host_protect/blob/main/img/13-2-2-2.png "Скриншот поэтапного выполнения")
 
 ---
 
@@ -125,9 +125,9 @@ man -c 1 localhost
 sudo mv /usr/bin/man1 /usr/bin/man
 ```
 **Скриншот поэтапного выполнения**
-![Скриншот поэтапного выполнения](https://github.com/StanislavBaranovskii/13-2-hw/blob/main/img/13-2-3-1.png "Скриншот поэтапного выполнения")
+![Скриншот поэтапного выполнения](https://github.com/temagraf/host_protect/blob/main/img/13-2-3-1.png "Скриншот поэтапного выполнения")
 **Скриншот поэтапного выполнения (продолжение)**
-![Скриншот поэтапного выполнения](https://github.com/StanislavBaranovskii/13-2-hw/blob/main/img/13-2-3-2.png "Скриншот поэтапного выполнения")
+![Скриншот поэтапного выполнения](https://github.com/temagraf/host_protect/blob/main/img/13-2-3-2.png "Скриншот поэтапного выполнения")
 **Скриншот поэтапного выполнения (продолжение)**
-![Скриншот поэтапного выполнения](https://github.com/StanislavBaranovskii/13-2-hw/blob/main/img/13-2-3-3.png "Скриншот поэтапного выполнения")
+![Скриншот поэтапного выполнения](https://github.com/temagraf/host_protect/blob/main/img/13-2-3-3.png "Скриншот поэтапного выполнения")
 ---
