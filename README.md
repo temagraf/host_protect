@@ -86,8 +86,7 @@ sudo cryptsetup luksClose disk #Закрываем раздел
 
 **Скриншот поэтапного выполнения**
 ![Скриншот поэтапного выполнения](https://github.com/temagraf/host_protect/blob/main/img/13-2-2-1.png "Скриншот поэтапного выполнения")
-**Скриншот поэтапного выполнения (продолжение)**
-![Скриншот поэтапного выполнения](https://github.com/temagraf/host_protect/blob/main/img/13-2-2-2.png "Скриншот поэтапного выполнения")
+
 
 ---
 
